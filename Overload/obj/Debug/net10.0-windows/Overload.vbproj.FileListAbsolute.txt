@@ -1,0 +1,16 @@
+C:\Users\cyber\Documents\Desktop\vnetprojects\Overload\bin\Debug\net10.0-windows\Overload.exe
+C:\Users\cyber\Documents\Desktop\vnetprojects\Overload\bin\Debug\net10.0-windows\Overload.deps.json
+C:\Users\cyber\Documents\Desktop\vnetprojects\Overload\bin\Debug\net10.0-windows\Overload.runtimeconfig.json
+C:\Users\cyber\Documents\Desktop\vnetprojects\Overload\bin\Debug\net10.0-windows\Overload.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Overload\bin\Debug\net10.0-windows\Overload.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Overload\obj\Debug\net10.0-windows\Overload.Form1.resources
+C:\Users\cyber\Documents\Desktop\vnetprojects\Overload\obj\Debug\net10.0-windows\Overload.vbproj.GenerateResource.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Overload\obj\Debug\net10.0-windows\Overload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyber\Documents\Desktop\vnetprojects\Overload\obj\Debug\net10.0-windows\Overload.AssemblyInfoInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Overload\obj\Debug\net10.0-windows\Overload.AssemblyInfo.vb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Overload\obj\Debug\net10.0-windows\Overload.vbproj.CoreCompileInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Overload\obj\Debug\net10.0-windows\Overload.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Overload\obj\Debug\net10.0-windows\refint\Overload.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Overload\obj\Debug\net10.0-windows\Overload.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Overload\obj\Debug\net10.0-windows\Overload.genruntimeconfig.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Overload\obj\Debug\net10.0-windows\ref\Overload.dll
