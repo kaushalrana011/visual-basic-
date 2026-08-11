@@ -1,0 +1,16 @@
+C:\Users\cyber\Documents\Desktop\vnetprojects\Inheritance\bin\Debug\net10.0-windows\Inheritance.exe
+C:\Users\cyber\Documents\Desktop\vnetprojects\Inheritance\bin\Debug\net10.0-windows\Inheritance.deps.json
+C:\Users\cyber\Documents\Desktop\vnetprojects\Inheritance\bin\Debug\net10.0-windows\Inheritance.runtimeconfig.json
+C:\Users\cyber\Documents\Desktop\vnetprojects\Inheritance\bin\Debug\net10.0-windows\Inheritance.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Inheritance\bin\Debug\net10.0-windows\Inheritance.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Inheritance\obj\Debug\net10.0-windows\Inheritance.Form1.resources
+C:\Users\cyber\Documents\Desktop\vnetprojects\Inheritance\obj\Debug\net10.0-windows\Inheritance.vbproj.GenerateResource.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Inheritance\obj\Debug\net10.0-windows\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyber\Documents\Desktop\vnetprojects\Inheritance\obj\Debug\net10.0-windows\Inheritance.AssemblyInfoInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Inheritance\obj\Debug\net10.0-windows\Inheritance.AssemblyInfo.vb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Inheritance\obj\Debug\net10.0-windows\Inheritance.vbproj.CoreCompileInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Inheritance\obj\Debug\net10.0-windows\Inheritance.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Inheritance\obj\Debug\net10.0-windows\refint\Inheritance.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Inheritance\obj\Debug\net10.0-windows\Inheritance.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Inheritance\obj\Debug\net10.0-windows\Inheritance.genruntimeconfig.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Inheritance\obj\Debug\net10.0-windows\ref\Inheritance.dll
