@@ -1,0 +1,16 @@
+C:\Users\cyber\Documents\Desktop\vnetprojects\Recursion\bin\Debug\net10.0-windows\Recursion.exe
+C:\Users\cyber\Documents\Desktop\vnetprojects\Recursion\bin\Debug\net10.0-windows\Recursion.deps.json
+C:\Users\cyber\Documents\Desktop\vnetprojects\Recursion\bin\Debug\net10.0-windows\Recursion.runtimeconfig.json
+C:\Users\cyber\Documents\Desktop\vnetprojects\Recursion\bin\Debug\net10.0-windows\Recursion.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Recursion\bin\Debug\net10.0-windows\Recursion.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Recursion\obj\Debug\net10.0-windows\Recursion.Form1.resources
+C:\Users\cyber\Documents\Desktop\vnetprojects\Recursion\obj\Debug\net10.0-windows\Recursion.vbproj.GenerateResource.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Recursion\obj\Debug\net10.0-windows\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyber\Documents\Desktop\vnetprojects\Recursion\obj\Debug\net10.0-windows\Recursion.AssemblyInfoInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Recursion\obj\Debug\net10.0-windows\Recursion.AssemblyInfo.vb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Recursion\obj\Debug\net10.0-windows\Recursion.vbproj.CoreCompileInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Recursion\obj\Debug\net10.0-windows\Recursion.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Recursion\obj\Debug\net10.0-windows\refint\Recursion.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Recursion\obj\Debug\net10.0-windows\Recursion.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Recursion\obj\Debug\net10.0-windows\Recursion.genruntimeconfig.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Recursion\obj\Debug\net10.0-windows\ref\Recursion.dll
