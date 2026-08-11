@@ -1,0 +1,16 @@
+C:\Users\cyber\Documents\Desktop\vnetprojects\Bank\bin\Debug\net10.0-windows\Bank.exe
+C:\Users\cyber\Documents\Desktop\vnetprojects\Bank\bin\Debug\net10.0-windows\Bank.deps.json
+C:\Users\cyber\Documents\Desktop\vnetprojects\Bank\bin\Debug\net10.0-windows\Bank.runtimeconfig.json
+C:\Users\cyber\Documents\Desktop\vnetprojects\Bank\bin\Debug\net10.0-windows\Bank.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Bank\bin\Debug\net10.0-windows\Bank.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Bank\obj\Debug\net10.0-windows\Bank.Form1.resources
+C:\Users\cyber\Documents\Desktop\vnetprojects\Bank\obj\Debug\net10.0-windows\Bank.vbproj.GenerateResource.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Bank\obj\Debug\net10.0-windows\Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyber\Documents\Desktop\vnetprojects\Bank\obj\Debug\net10.0-windows\Bank.AssemblyInfoInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Bank\obj\Debug\net10.0-windows\Bank.AssemblyInfo.vb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Bank\obj\Debug\net10.0-windows\Bank.vbproj.CoreCompileInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Bank\obj\Debug\net10.0-windows\Bank.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Bank\obj\Debug\net10.0-windows\refint\Bank.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Bank\obj\Debug\net10.0-windows\Bank.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Bank\obj\Debug\net10.0-windows\Bank.genruntimeconfig.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Bank\obj\Debug\net10.0-windows\ref\Bank.dll
