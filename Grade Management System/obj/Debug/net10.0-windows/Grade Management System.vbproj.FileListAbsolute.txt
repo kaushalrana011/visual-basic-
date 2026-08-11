@@ -1,0 +1,16 @@
+C:\Users\cyber\Documents\Desktop\vnetprojects\Grade Management System\bin\Debug\net10.0-windows\Grade Management System.exe
+C:\Users\cyber\Documents\Desktop\vnetprojects\Grade Management System\bin\Debug\net10.0-windows\Grade Management System.deps.json
+C:\Users\cyber\Documents\Desktop\vnetprojects\Grade Management System\bin\Debug\net10.0-windows\Grade Management System.runtimeconfig.json
+C:\Users\cyber\Documents\Desktop\vnetprojects\Grade Management System\bin\Debug\net10.0-windows\Grade Management System.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Grade Management System\bin\Debug\net10.0-windows\Grade Management System.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Grade Management System\obj\Debug\net10.0-windows\Grade_Management_System.Form1.resources
+C:\Users\cyber\Documents\Desktop\vnetprojects\Grade Management System\obj\Debug\net10.0-windows\Grade Management System.vbproj.GenerateResource.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Grade Management System\obj\Debug\net10.0-windows\Grade Management System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyber\Documents\Desktop\vnetprojects\Grade Management System\obj\Debug\net10.0-windows\Grade Management System.AssemblyInfoInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Grade Management System\obj\Debug\net10.0-windows\Grade Management System.AssemblyInfo.vb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Grade Management System\obj\Debug\net10.0-windows\Grade Management System.vbproj.CoreCompileInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Grade Management System\obj\Debug\net10.0-windows\Grade Management System.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Grade Management System\obj\Debug\net10.0-windows\refint\Grade Management System.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Grade Management System\obj\Debug\net10.0-windows\Grade Management System.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Grade Management System\obj\Debug\net10.0-windows\Grade Management System.genruntimeconfig.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Grade Management System\obj\Debug\net10.0-windows\ref\Grade Management System.dll
