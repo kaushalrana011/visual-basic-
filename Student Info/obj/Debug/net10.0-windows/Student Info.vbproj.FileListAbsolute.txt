@@ -1,0 +1,16 @@
+C:\Users\cyber\Documents\Desktop\vnetprojects\Student Info\bin\Debug\net10.0-windows\Student Info.exe
+C:\Users\cyber\Documents\Desktop\vnetprojects\Student Info\bin\Debug\net10.0-windows\Student Info.deps.json
+C:\Users\cyber\Documents\Desktop\vnetprojects\Student Info\bin\Debug\net10.0-windows\Student Info.runtimeconfig.json
+C:\Users\cyber\Documents\Desktop\vnetprojects\Student Info\bin\Debug\net10.0-windows\Student Info.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Student Info\bin\Debug\net10.0-windows\Student Info.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Student Info\obj\Debug\net10.0-windows\Student Info.vbproj.GenerateResource.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Student Info\obj\Debug\net10.0-windows\Student Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyber\Documents\Desktop\vnetprojects\Student Info\obj\Debug\net10.0-windows\Student Info.AssemblyInfoInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Student Info\obj\Debug\net10.0-windows\Student Info.AssemblyInfo.vb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Student Info\obj\Debug\net10.0-windows\Student Info.vbproj.CoreCompileInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Student Info\obj\Debug\net10.0-windows\Student Info.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Student Info\obj\Debug\net10.0-windows\refint\Student Info.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Student Info\obj\Debug\net10.0-windows\Student Info.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Student Info\obj\Debug\net10.0-windows\Student Info.genruntimeconfig.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Student Info\obj\Debug\net10.0-windows\ref\Student Info.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Student Info\obj\Debug\net10.0-windows\Student_Info.Form1.resources
