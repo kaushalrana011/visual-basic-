@@ -1,0 +1,16 @@
+C:\Users\cyber\Documents\Desktop\vnetprojects\NotePad\bin\Debug\net10.0-windows\NotePad.exe
+C:\Users\cyber\Documents\Desktop\vnetprojects\NotePad\bin\Debug\net10.0-windows\NotePad.deps.json
+C:\Users\cyber\Documents\Desktop\vnetprojects\NotePad\bin\Debug\net10.0-windows\NotePad.runtimeconfig.json
+C:\Users\cyber\Documents\Desktop\vnetprojects\NotePad\bin\Debug\net10.0-windows\NotePad.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\NotePad\bin\Debug\net10.0-windows\NotePad.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\NotePad\obj\Debug\net10.0-windows\NotePad.Form1.resources
+C:\Users\cyber\Documents\Desktop\vnetprojects\NotePad\obj\Debug\net10.0-windows\NotePad.vbproj.GenerateResource.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\NotePad\obj\Debug\net10.0-windows\NotePad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyber\Documents\Desktop\vnetprojects\NotePad\obj\Debug\net10.0-windows\NotePad.AssemblyInfoInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\NotePad\obj\Debug\net10.0-windows\NotePad.AssemblyInfo.vb
+C:\Users\cyber\Documents\Desktop\vnetprojects\NotePad\obj\Debug\net10.0-windows\NotePad.vbproj.CoreCompileInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\NotePad\obj\Debug\net10.0-windows\NotePad.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\NotePad\obj\Debug\net10.0-windows\refint\NotePad.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\NotePad\obj\Debug\net10.0-windows\NotePad.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\NotePad\obj\Debug\net10.0-windows\NotePad.genruntimeconfig.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\NotePad\obj\Debug\net10.0-windows\ref\NotePad.dll
