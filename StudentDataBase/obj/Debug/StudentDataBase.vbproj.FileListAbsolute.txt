@@ -1,0 +1,12 @@
+C:\Users\cyber\Documents\Desktop\vnetprojects\StudentDataBase\bin\Debug\StudentDataBase.exe.config
+C:\Users\cyber\Documents\Desktop\vnetprojects\StudentDataBase\bin\Debug\StudentDataBase.exe
+C:\Users\cyber\Documents\Desktop\vnetprojects\StudentDataBase\bin\Debug\StudentDataBase.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\StudentDataBase\bin\Debug\StudentDataBase.xml
+C:\Users\cyber\Documents\Desktop\vnetprojects\StudentDataBase\obj\Debug\StudentDataBase.vbproj.AssemblyReference.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\StudentDataBase\obj\Debug\StudentDataBase.Form1.resources
+C:\Users\cyber\Documents\Desktop\vnetprojects\StudentDataBase\obj\Debug\StudentDataBase.Resources.resources
+C:\Users\cyber\Documents\Desktop\vnetprojects\StudentDataBase\obj\Debug\StudentDataBase.vbproj.GenerateResource.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\StudentDataBase\obj\Debug\StudentDataBase.vbproj.CoreCompileInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\StudentDataBase\obj\Debug\StudentDataBase.exe
+C:\Users\cyber\Documents\Desktop\vnetprojects\StudentDataBase\obj\Debug\StudentDataBase.xml
+C:\Users\cyber\Documents\Desktop\vnetprojects\StudentDataBase\obj\Debug\StudentDataBase.pdb
