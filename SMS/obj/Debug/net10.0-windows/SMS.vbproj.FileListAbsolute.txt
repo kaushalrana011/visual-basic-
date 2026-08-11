@@ -1,0 +1,6 @@
+C:\Users\cyber\Documents\Desktop\vnetprojects\SMS\obj\Debug\net10.0-windows\SMS.Form1.resources
+C:\Users\cyber\Documents\Desktop\vnetprojects\SMS\obj\Debug\net10.0-windows\SMS.vbproj.GenerateResource.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\SMS\obj\Debug\net10.0-windows\SMS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyber\Documents\Desktop\vnetprojects\SMS\obj\Debug\net10.0-windows\SMS.AssemblyInfoInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\SMS\obj\Debug\net10.0-windows\SMS.AssemblyInfo.vb
+C:\Users\cyber\Documents\Desktop\vnetprojects\SMS\obj\Debug\net10.0-windows\SMS.vbproj.CoreCompileInputs.cache
