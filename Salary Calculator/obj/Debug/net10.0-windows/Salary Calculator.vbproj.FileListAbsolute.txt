@@ -1,0 +1,16 @@
+C:\Users\cyber\Documents\Desktop\vnetprojects\Salary Calculator\bin\Debug\net10.0-windows\Salary Calculator.exe
+C:\Users\cyber\Documents\Desktop\vnetprojects\Salary Calculator\bin\Debug\net10.0-windows\Salary Calculator.deps.json
+C:\Users\cyber\Documents\Desktop\vnetprojects\Salary Calculator\bin\Debug\net10.0-windows\Salary Calculator.runtimeconfig.json
+C:\Users\cyber\Documents\Desktop\vnetprojects\Salary Calculator\bin\Debug\net10.0-windows\Salary Calculator.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Salary Calculator\bin\Debug\net10.0-windows\Salary Calculator.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Salary Calculator\obj\Debug\net10.0-windows\Salary_Calculator.Form1.resources
+C:\Users\cyber\Documents\Desktop\vnetprojects\Salary Calculator\obj\Debug\net10.0-windows\Salary Calculator.vbproj.GenerateResource.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Salary Calculator\obj\Debug\net10.0-windows\Salary Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyber\Documents\Desktop\vnetprojects\Salary Calculator\obj\Debug\net10.0-windows\Salary Calculator.AssemblyInfoInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Salary Calculator\obj\Debug\net10.0-windows\Salary Calculator.AssemblyInfo.vb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Salary Calculator\obj\Debug\net10.0-windows\Salary Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Salary Calculator\obj\Debug\net10.0-windows\Salary Calculator.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Salary Calculator\obj\Debug\net10.0-windows\refint\Salary Calculator.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Salary Calculator\obj\Debug\net10.0-windows\Salary Calculator.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Salary Calculator\obj\Debug\net10.0-windows\Salary Calculator.genruntimeconfig.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Salary Calculator\obj\Debug\net10.0-windows\ref\Salary Calculator.dll
