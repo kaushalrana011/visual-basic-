@@ -1,0 +1,16 @@
+C:\Users\cyber\Documents\Desktop\vnetprojects\Scientific Calculator\bin\Debug\net10.0-windows\Scientific Calculator.exe
+C:\Users\cyber\Documents\Desktop\vnetprojects\Scientific Calculator\bin\Debug\net10.0-windows\Scientific Calculator.deps.json
+C:\Users\cyber\Documents\Desktop\vnetprojects\Scientific Calculator\bin\Debug\net10.0-windows\Scientific Calculator.runtimeconfig.json
+C:\Users\cyber\Documents\Desktop\vnetprojects\Scientific Calculator\bin\Debug\net10.0-windows\Scientific Calculator.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Scientific Calculator\bin\Debug\net10.0-windows\Scientific Calculator.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Scientific Calculator\obj\Debug\net10.0-windows\Scientific_Calculator.Form1.resources
+C:\Users\cyber\Documents\Desktop\vnetprojects\Scientific Calculator\obj\Debug\net10.0-windows\Scientific Calculator.vbproj.GenerateResource.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Scientific Calculator\obj\Debug\net10.0-windows\Scientific Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyber\Documents\Desktop\vnetprojects\Scientific Calculator\obj\Debug\net10.0-windows\Scientific Calculator.AssemblyInfoInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Scientific Calculator\obj\Debug\net10.0-windows\Scientific Calculator.AssemblyInfo.vb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Scientific Calculator\obj\Debug\net10.0-windows\Scientific Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Scientific Calculator\obj\Debug\net10.0-windows\Scientific Calculator.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Scientific Calculator\obj\Debug\net10.0-windows\refint\Scientific Calculator.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Scientific Calculator\obj\Debug\net10.0-windows\Scientific Calculator.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Scientific Calculator\obj\Debug\net10.0-windows\Scientific Calculator.genruntimeconfig.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Scientific Calculator\obj\Debug\net10.0-windows\ref\Scientific Calculator.dll
