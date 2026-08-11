@@ -1,0 +1,16 @@
+C:\Users\cyber\Documents\Desktop\vnetprojects\Admission\bin\Debug\net10.0-windows\Admission.exe
+C:\Users\cyber\Documents\Desktop\vnetprojects\Admission\bin\Debug\net10.0-windows\Admission.deps.json
+C:\Users\cyber\Documents\Desktop\vnetprojects\Admission\bin\Debug\net10.0-windows\Admission.runtimeconfig.json
+C:\Users\cyber\Documents\Desktop\vnetprojects\Admission\bin\Debug\net10.0-windows\Admission.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Admission\bin\Debug\net10.0-windows\Admission.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Admission\obj\Debug\net10.0-windows\Admission.Form1.resources
+C:\Users\cyber\Documents\Desktop\vnetprojects\Admission\obj\Debug\net10.0-windows\Admission.vbproj.GenerateResource.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Admission\obj\Debug\net10.0-windows\Admission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyber\Documents\Desktop\vnetprojects\Admission\obj\Debug\net10.0-windows\Admission.AssemblyInfoInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Admission\obj\Debug\net10.0-windows\Admission.AssemblyInfo.vb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Admission\obj\Debug\net10.0-windows\Admission.vbproj.CoreCompileInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Admission\obj\Debug\net10.0-windows\Admission.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Admission\obj\Debug\net10.0-windows\refint\Admission.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Admission\obj\Debug\net10.0-windows\Admission.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Admission\obj\Debug\net10.0-windows\Admission.genruntimeconfig.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Admission\obj\Debug\net10.0-windows\ref\Admission.dll
