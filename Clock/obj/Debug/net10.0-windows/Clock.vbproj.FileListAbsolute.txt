@@ -1,0 +1,16 @@
+C:\Users\cyber\Documents\Desktop\vnetprojects\Clock\bin\Debug\net10.0-windows\Clock.exe
+C:\Users\cyber\Documents\Desktop\vnetprojects\Clock\bin\Debug\net10.0-windows\Clock.deps.json
+C:\Users\cyber\Documents\Desktop\vnetprojects\Clock\bin\Debug\net10.0-windows\Clock.runtimeconfig.json
+C:\Users\cyber\Documents\Desktop\vnetprojects\Clock\bin\Debug\net10.0-windows\Clock.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Clock\bin\Debug\net10.0-windows\Clock.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Clock\obj\Debug\net10.0-windows\Clock.Form1.resources
+C:\Users\cyber\Documents\Desktop\vnetprojects\Clock\obj\Debug\net10.0-windows\Clock.vbproj.GenerateResource.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Clock\obj\Debug\net10.0-windows\Clock.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyber\Documents\Desktop\vnetprojects\Clock\obj\Debug\net10.0-windows\Clock.AssemblyInfoInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Clock\obj\Debug\net10.0-windows\Clock.AssemblyInfo.vb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Clock\obj\Debug\net10.0-windows\Clock.vbproj.CoreCompileInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Clock\obj\Debug\net10.0-windows\Clock.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Clock\obj\Debug\net10.0-windows\refint\Clock.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Clock\obj\Debug\net10.0-windows\Clock.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Clock\obj\Debug\net10.0-windows\Clock.genruntimeconfig.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Clock\obj\Debug\net10.0-windows\ref\Clock.dll
