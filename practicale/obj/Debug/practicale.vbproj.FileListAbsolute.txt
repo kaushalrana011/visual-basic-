@@ -1,0 +1,12 @@
+C:\Users\cyber\Documents\Desktop\vnetprojects\practicale\bin\Debug\practicale.exe.config
+C:\Users\cyber\Documents\Desktop\vnetprojects\practicale\bin\Debug\practicale.exe
+C:\Users\cyber\Documents\Desktop\vnetprojects\practicale\bin\Debug\practicale.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\practicale\bin\Debug\practicale.xml
+C:\Users\cyber\Documents\Desktop\vnetprojects\practicale\obj\Debug\practicale.vbproj.AssemblyReference.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\practicale\obj\Debug\practicale.Form1.resources
+C:\Users\cyber\Documents\Desktop\vnetprojects\practicale\obj\Debug\practicale.Resources.resources
+C:\Users\cyber\Documents\Desktop\vnetprojects\practicale\obj\Debug\practicale.vbproj.GenerateResource.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\practicale\obj\Debug\practicale.vbproj.CoreCompileInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\practicale\obj\Debug\practicale.exe
+C:\Users\cyber\Documents\Desktop\vnetprojects\practicale\obj\Debug\practicale.xml
+C:\Users\cyber\Documents\Desktop\vnetprojects\practicale\obj\Debug\practicale.pdb
