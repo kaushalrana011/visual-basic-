@@ -1,0 +1,16 @@
+C:\Users\cyber\Documents\Desktop\vnetprojects\Picture\bin\Debug\net10.0-windows\Picture.exe
+C:\Users\cyber\Documents\Desktop\vnetprojects\Picture\bin\Debug\net10.0-windows\Picture.deps.json
+C:\Users\cyber\Documents\Desktop\vnetprojects\Picture\bin\Debug\net10.0-windows\Picture.runtimeconfig.json
+C:\Users\cyber\Documents\Desktop\vnetprojects\Picture\bin\Debug\net10.0-windows\Picture.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Picture\bin\Debug\net10.0-windows\Picture.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Picture\obj\Debug\net10.0-windows\Picture.Form1.resources
+C:\Users\cyber\Documents\Desktop\vnetprojects\Picture\obj\Debug\net10.0-windows\Picture.vbproj.GenerateResource.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Picture\obj\Debug\net10.0-windows\Picture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cyber\Documents\Desktop\vnetprojects\Picture\obj\Debug\net10.0-windows\Picture.AssemblyInfoInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Picture\obj\Debug\net10.0-windows\Picture.AssemblyInfo.vb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Picture\obj\Debug\net10.0-windows\Picture.vbproj.CoreCompileInputs.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Picture\obj\Debug\net10.0-windows\Picture.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Picture\obj\Debug\net10.0-windows\refint\Picture.dll
+C:\Users\cyber\Documents\Desktop\vnetprojects\Picture\obj\Debug\net10.0-windows\Picture.pdb
+C:\Users\cyber\Documents\Desktop\vnetprojects\Picture\obj\Debug\net10.0-windows\Picture.genruntimeconfig.cache
+C:\Users\cyber\Documents\Desktop\vnetprojects\Picture\obj\Debug\net10.0-windows\ref\Picture.dll
